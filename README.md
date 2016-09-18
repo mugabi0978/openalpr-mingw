@@ -28,8 +28,8 @@ This repository was forked from original openalpr repository for making sure com
 
 9- Go to this repo's CMake generated foder and open command prompt here, thereafter type mingw32-make and hit enter. Then wait until compilation is complete. No longer you have finished OpenALPR with MinGW. (was builded alpr.exe)
 
-10- Just in case copy opencv dlls and tesseract dlls to your builded alpr.exe's folder for any run-time error. (Reminding: dll files in the bin folders)
-
+10- Just copy alpr.exe to test_it_here folder and run above command:
+alpr.exe --config alpr.conf test-image.jpg
 
 openalpr
 ========
