@@ -6,6 +6,7 @@ This repository was forked from original openalpr repository for make sure compi
 ![Windows 10](http://s15.postimg.org/7hwkwfp2x/result.png)
 
 ## Usage ##
+> **Video Tutorial:** https://www.youtube.com/watch?v=YYvxUef3l3E
 
 1- Download and install latest CMake
 
