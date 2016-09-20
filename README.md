@@ -1,6 +1,11 @@
 OpenALPR MinGW  Version
 ========
-This repository was forked from original openalpr repository for making sure compiling it on Windows. It's containing tesseract and leptonica dependencies in it own. If you want to compile openalpr and its test utilities please follow the below steps:
+This repository was forked from original openalpr repository for make sure compiling it on Windows. It's containing tesseract and leptonica dependencies in its own. 
+
+## Result ##
+![Windows 10](http://s15.postimg.org/7hwkwfp2x/result.png)
+
+## Usage ##
 
 1- Download and install latest CMake
 
