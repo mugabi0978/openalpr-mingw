@@ -7,7 +7,7 @@
 #include "windows/dirent.h"
 #include "windows/utils.h"
 #include "windows/unistd_partial.h"
-typedef int mode_t;
+//typedef int mode_t;
 #else
 #include <dirent.h>
 #include <unistd.h>
